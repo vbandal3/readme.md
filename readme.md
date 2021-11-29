@@ -11,7 +11,7 @@ A passionate an engineer from India
 
 👯 I’m looking to collaborate on anything interesting
 
-👨‍💻 All of my projects are available at vbandal3.github.io
+👨‍💻 All of my projects are available at https://github.com/vbandal3
 
 📫 How to reach me vaibhavbandal0009@gmail.com
 
